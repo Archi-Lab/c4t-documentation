@@ -1,2 +1,2 @@
 # c4t-documentation
-Dokumentation und Tutorials für die "coding infrastructure for classroom teaching" 
+Documentation and tutorials for the "coding infrastructure for classroom teaching" 
